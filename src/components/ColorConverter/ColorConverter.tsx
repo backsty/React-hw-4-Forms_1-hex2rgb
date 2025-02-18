@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Input } from '../Input/input';
+import { Input } from '../Input/Input';
 import { ErrorMessage } from '../ErrorMessage/ErrorMessage';
 import { hex2rgb, isValidHex } from '../../utils/colorConverters';
 
